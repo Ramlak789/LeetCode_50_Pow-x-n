@@ -1,0 +1,1 @@
+# LeetCode_50_Pow-x-n
